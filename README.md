@@ -6,3 +6,5 @@ The steps to build and use MediaPipe AAR is documented in MediaPipe's [android_a
 
 2. Google ML Kit Pose detection.
    > https://developers.google.com/ml-kit/vision/pose-detection
+
+3. After my testing, the current Mediapipe pose detection model is more accurate than ML Kit even if Google said ML Kit also uses BlazePose.
