@@ -1,0 +1,5 @@
+
+`FlowLimiterCalculatorinput_videoFINISHED:output_video"throttled_input_videoj
+FINISHED
+‰PoseLandmarkCpuIMAGE:throttled_input_video"LANDMARKS:pose_landmarks"DETECTION:pose_detection"%ROI_FROM_LANDMARKS:roi_from_landmarks
+ŽPoseRendererCpuIMAGE:throttled_input_videoLANDMARKS:pose_landmarksROI:roi_from_landmarksDETECTION:pose_detection"IMAGE:output_videoRinput_videozoutput_videozpose_landmarks
