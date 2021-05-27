@@ -9,7 +9,7 @@ To build binarypb:
 bazel build -c opt --strip=ALWAYS --host_crosstool_top=@bazel_tools//tools/cpp:toolchain     --fat_apk_cpu=arm64-v8a,armeabi-v7a mediapipe/graphs/pose_tracking:pose_tracking_gpu_binary_graph
 
 The binarypb is in the folder
-/home/xiaohui/Downloads/mediapipe-master/bazel-bin/mediapipe/graphs/pose_tracking
+/bazel-bin/mediapipe/graphs/pose_tracking
 
 
 
